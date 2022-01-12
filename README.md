@@ -7,5 +7,5 @@ Then you can follow this guide in order to install Python and Jupyter Notebook :
 
 ## Required Libraries :
 You have to install : <br/>
--gym 
+-gym <br/>
 -Torch 
